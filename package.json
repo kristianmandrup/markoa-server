@@ -1,7 +1,7 @@
 {
-  "name": "babel-library-boilerplate",
-  "version": "3.1.0",
-  "description": "Author libraries in ES2015 for Node and the browser.",
+  "name": "markoa-server",
+  "version": "0.1.0",
+  "description": "Markoa Server config",
   "main": "dist/library-dist.js",
   "scripts": {
     "test": "gulp",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/babel/babel-library-boilerplate.git"
+    "url": "ttps://github.com/kristianmandrup/markoa-server.git"
   },
   "keywords": [
     "boilerplate",
@@ -27,9 +27,9 @@
   "author": "Jmeas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/babel/babel-library-boilerplate/issues"
+    "url": "ttps://github.com/kristianmandrup/markoa-server/issues"
   },
-  "homepage": "https://github.com/babel/babel-library-boilerplate",
+  "homepage": "ttps://github.com/kristianmandrup/markoa-server",
   "dependencies": {
     "bluebird": "^2.9.34",
     "js-yaml": "^3.3.1",
@@ -71,7 +71,7 @@
   },
   "babelBoilerplateOptions": {
     "entryFileName": "index",
-    "exportVarName": "MyLibrary",
+    "exportVarName": "Server",
     "mochaGlobals": [
       "stub",
       "spy",
