@@ -1,6 +1,6 @@
 # Markoa App
 
-Base on [babel-library-boilerplate](https://github.com/babel/babel-library-boilerplate)
+Based on [babel-library-boilerplate](https://github.com/babel/babel-library-boilerplate)
 
 "A boilerplate to author libraries in ES2015 for Node and the browser"
 
