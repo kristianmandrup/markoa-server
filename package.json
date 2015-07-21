@@ -11,28 +11,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "ttps://github.com/kristianmandrup/markoa-server.git"
+    "url": "https://github.com/kristianmandrup/markoa-server.git"
   },
   "keywords": [
-    "boilerplate",
-    "es6",
+    "server",
+    "koa",
+    "marko",
     "es2015",
     "node",
-    "starter",
-    "kit",
-    "transpile",
-    "6to5",
     "babel"
   ],
-  "author": "Jmeas",
+  "author": "Kristian Mandrup <kmandrup@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "ttps://github.com/kristianmandrup/markoa-server/issues"
+    "url": "https://github.com/kristianmandrup/markoa-server/issues"
   },
-  "homepage": "ttps://github.com/kristianmandrup/markoa-server",
+  "homepage": "https://github.com/kristianmandrup/markoa-server",
   "dependencies": {
-    "bluebird": "^2.9.34",
-    "js-yaml": "^3.3.1",
     "koa": "^0.21.0",
     "marko": "^2.7.6"
   },
