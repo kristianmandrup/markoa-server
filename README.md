@@ -1,5 +1,7 @@
 # Markoa App
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/markoa-server.svg)](https://greenkeeper.io/)
+
 Based on [babel-library-boilerplate](https://github.com/babel/babel-library-boilerplate)
 
 "A boilerplate to author libraries in ES2015 for Node and the browser"
